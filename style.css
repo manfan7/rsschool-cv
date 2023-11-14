@@ -1,0 +1,15 @@
+.firstStep {
+font-size: 32px;
+color: purple;
+font-weight: bold;
+}
+.wrapper {
+display: flex;
+align-items: center;
+width: 100%;
+}
+.wrapper-item {
+width: 50%;
+background-color: green;
+height: 200px;
+}
